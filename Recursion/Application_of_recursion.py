@@ -12,3 +12,6 @@
 '''
 
 #Modern Compilers always like to have tail recursion function
+'''
+Quick sort is Tail Recursive so its faster than merge sort as it can be quickly optimized
+'''
